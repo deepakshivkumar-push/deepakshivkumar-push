@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a Computer Science undergraduate with a strong interest in Cybersecurity and Cloud. Currently, I’m sharpening my skills in Python, networking, Linux, and security fundamentals.
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5474822" style='border:none;'></iframe>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/909_deepakk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-shiv-kumar-a88a892bb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cym4x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivkumar.cyber@gmail.com) 
 
